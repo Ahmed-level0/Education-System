@@ -1,0 +1,14 @@
+d:\colleage\Carerr\EDU System\bin\Debug\net8.0\EDU System.exe
+D:\colleage\Carerr\EDU System\bin\Debug\net8.0\EDU System.deps.json
+D:\colleage\Carerr\EDU System\bin\Debug\net8.0\EDU System.runtimeconfig.json
+d:\colleage\Carerr\EDU System\bin\Debug\net8.0\EDU System.dll
+d:\colleage\Carerr\EDU System\bin\Debug\net8.0\EDU System.pdb
+d:\colleage\Carerr\EDU System\obj\Debug\net8.0\EDU System.GeneratedMSBuildEditorConfig.editorconfig
+d:\colleage\Carerr\EDU System\obj\Debug\net8.0\EDU System.AssemblyInfoInputs.cache
+d:\colleage\Carerr\EDU System\obj\Debug\net8.0\EDU System.AssemblyInfo.cs
+d:\colleage\Carerr\EDU System\obj\Debug\net8.0\EDU System.csproj.CoreCompileInputs.cache
+d:\colleage\Carerr\EDU System\obj\Debug\net8.0\EDU System.dll
+d:\colleage\Carerr\EDU System\obj\Debug\net8.0\refint\EDU System.dll
+d:\colleage\Carerr\EDU System\obj\Debug\net8.0\EDU System.pdb
+D:\colleage\Carerr\EDU System\obj\Debug\net8.0\EDU System.genruntimeconfig.cache
+D:\colleage\Carerr\EDU System\obj\Debug\net8.0\ref\EDU System.dll
